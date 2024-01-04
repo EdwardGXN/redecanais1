@@ -1,6 +1,6 @@
-O **redecanais** ajuda você a assistir vários filmes via linha de comando com *facilidade*:
+**Teste 1** Tentativa de integração FrontEnd
 
-# Instalação:
+# Instalação via terminal:
 ```shell script
 pip install redecanais ou pip install git+https://github.com/EdwardGXN/redecanais1.git
 ```
