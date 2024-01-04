@@ -2,7 +2,7 @@
 
 # Instalação via terminal:
 ```shell script
-pip install redecanais ou pip install git+https://github.com/EdwardGXN/redecanais1.git
+pip install git+https://github.com/EdwardGXN/redecanais1.git
 ```
 
 # Uso dentro do módulo:
